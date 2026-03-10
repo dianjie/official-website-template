@@ -10,5 +10,6 @@
   "proseWrap": "preserve",
   "htmlWhitespaceSensitivity": "strict",
   "vueIndentScriptAndStyle": false,
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
